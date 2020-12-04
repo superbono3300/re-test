@@ -19,7 +19,7 @@
     "deploy": "gh-pages -d build",
     "predeploy": "npm run build"
   },
-  "homepage":"https://test.github.io/re-test",
+  "homepage":"https://superbono3300.github.io/re-test/",
   "eslintConfig": {
     "extends": [
       "react-app",
